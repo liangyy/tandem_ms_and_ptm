@@ -1,1 +1,3 @@
-# tandem_ms_and_ptm
+# Little review paper in tandem MS in the discovery of PTM in lysine
+
+The file name has this the format `s[N]_[content].txt`. `N` means the number of section and `content` indicates the content of this section.
